@@ -7,6 +7,8 @@
 
 **[ Latest release links | CN Resource Bilibili2 ](https://hk4e-launcher-static.mihoyo.com/hk4e_cn/mdk/launcher/api/resource?channel_id=14&key=KAtdSsoQ&launcher_id=17&sub_channel_id=0)**
 
+---
+
 **[ Latest release links | CN Android ](https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default)**
 
 **[ Latest release links | CN Cloud Android ](https://api-takumi.mihoyo.com/event/download_porter/link/clgm_cn/official/default)**
