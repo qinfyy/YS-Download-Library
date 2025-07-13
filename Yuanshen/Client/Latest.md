@@ -1,5 +1,7 @@
 **[Latest release links | CN miHoYo Launcher Build](https://downloader-api.mihoyo.com/downloader/sophon_chunk/api/getBuild?branch=main&package_id=8xfMve0uwQ&password=CW8GbLNU8f&tag=)**
 
+**[Latest release links | CN miHoYo Launcher Build](https://downloader-api.mihoyo.com/downloader/sophon_chunk/api/getBuild?branch=main&package_id=ShYmPEuLMY&password=4Rj5ER1XxjQh&plat_app=ddxf5qt290cg&tag=)**
+
 **[Latest release links | CN miHoYo Launcher GamePackages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=1Z8W5NHUQb&launcher_id=jGHBHlcOq1)**
 
 **[Latest release links | CN miHoYo Launcher BiliBili GamePackages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=T2S0Gz4Dr2&launcher_id=umfgRO5gh5)**
